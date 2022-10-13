@@ -1,5 +1,5 @@
 # AIBias
-
+This repo includes *biased* datasets that can be used for ML and regression models.
 ### Datasets
 |Name|Info|
 |----|----|
