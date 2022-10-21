@@ -3,5 +3,5 @@ This repo includes *biased* datasets that can be used for ML and regression mode
 ### Datasets
 |Name|Info|
 |----|----|
-|sat_and_race|Made-up biased dataset with SAT score, race, and success in college. Favored to white students with high SAT scores.|
+|sat_and_race|Made-up biased dataset with SAT score, race, and success in college. Races have equal distributions of success, but based on actual mean SAT data demonstrating inequality in SAT scores
 |ToxicityDataKaggle|From the [Civil Comments dataset](https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/overview), no changes made.|
